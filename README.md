@@ -1,4 +1,2 @@
-# hello-world
-My first repository
-Here is my first repository on this account.i created it entirely within the github interface using the instructions located at:
-https://guides.github.com/activities/hello-world
+Create a text file called HelloWorld.md
+Add the line "## This is a markdown file" (without the quotation marks) to the document
